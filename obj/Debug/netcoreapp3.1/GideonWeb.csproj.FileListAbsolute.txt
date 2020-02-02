@@ -1,0 +1,11 @@
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb.deps.json
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb.runtimeconfig.json
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb.runtimeconfig.dev.json
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb.dll
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/bin/Debug/netcoreapp3.1/GideonWeb.pdb
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/obj/Debug/netcoreapp3.1/GideonWeb.csprojAssemblyReference.cache
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/obj/Debug/netcoreapp3.1/GideonWeb.AssemblyInfoInputs.cache
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/obj/Debug/netcoreapp3.1/GideonWeb.AssemblyInfo.cs
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/obj/Debug/netcoreapp3.1/GideonWeb.dll
+/Users/gideonshan/Documents/Vue/GideonWeb/GideonWeb/obj/Debug/netcoreapp3.1/GideonWeb.pdb
